@@ -37,3 +37,6 @@ next-env.d.ts
 
 # secret codes
 .env
+
+# database
+dev.db*
